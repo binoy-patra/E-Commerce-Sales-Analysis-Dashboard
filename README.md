@@ -51,7 +51,7 @@ The dataset provided comprehensive insights, including monthly profit figures, p
 6. **Documentation:** Documenting the entire process, insights, and dashboard functionalities.
 
 ## Here is the Dashboard: 
-- **[PDF of E-Commerce Sales Dashboard]()**
+- **[PDF of E-Commerce Sales Dashboard](https://github.com/binoy-patra/E-Commerce-Sales-Analysis-Dashboard/blob/main/Madhav%20E-Commerce%20Sales%20Dashboard.pdf)**
 ## Insights:
 1. **Profit by Month:**
    - A line chart highlighted peaks in profit during March, July, and December, with significant dips in April and October warranting further investigation.
