@@ -1,15 +1,16 @@
 # Interactive Dashboard to Analyze and Track Online Store Data
 
-# Index
+# Table of Content
 
 1. [Introduction](#introduction)
 2. [Objective](#objective)
 3. [Dataset Overview](#dataset-overview)
 4. [Tools Used](#tools-used)
 5. [Methodology](#methodology)
-6. [Insights](#insights)
-7. [Conclusion](#conclusion)
-8. [Contact Information](#contact-information)
+6. [Dashboard](#here-is-the-dashboard)
+7. [Insights](#insights)
+8. [Conclusion](#conclusion)
+9. [Contact Information](#contact-information)
 
 ## Introduction:
 As a data analyst, exploring new tools like Power BI can be both challenging and rewarding. Recently, I embarked on a journey to develop a comprehensive sales dashboard for Madhav E-Commerce. This report outlines the insights uncovered, methodologies employed, and key learnings from this project.
